@@ -1,4 +1,4 @@
-﻿using System.Collections;
+using System.Collections;
 using System.Collections.Generic;
 using TMPro;
 using UnityEngine;
@@ -186,6 +186,7 @@ public class ColorPicker : MonoBehaviour
         int height = 1;
         Texture2D texture = new Texture2D(width, height);
         Color color = adjustRGBSliderColors ? currentColor : Color.black;
+        color.a = 1f;
 
         for (int i = 0; i < width; i++)
         {
@@ -208,6 +209,7 @@ public class ColorPicker : MonoBehaviour
         int height = 1;
         Texture2D texture = new Texture2D(width, height);
         Color color = adjustRGBSliderColors ? currentColor : Color.black;
+        color.a = 1f;
 
         for (int i = 0; i < width; i++)
         {
@@ -230,6 +232,7 @@ public class ColorPicker : MonoBehaviour
         int height = 1;
         Texture2D texture = new Texture2D(width, height);
         Color color = adjustRGBSliderColors ? currentColor : Color.black;
+        color.a = 1f;
 
         for (int i = 0; i < width; i++)
         {
