@@ -124,7 +124,7 @@ Result: smooth, responsive interaction
 
 ```
 Assets/
-└── ColorPicker/
+└── Color Picker/
     ├── Scripts/
     ├── Prefabs/
     ├── Graphics/
