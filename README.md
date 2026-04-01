@@ -32,7 +32,7 @@ A modular, performance-optimized color picker for Unity with full RGBA, HSV, and
 
 ### Option 2 — Manual
 
-1. Copy the `Assets/Color Picker/` folder into your project
+1. Copy the `Color Picker/` folder into your project
 2. Drag the prefab into your Canvas
 3. Assign:
 
