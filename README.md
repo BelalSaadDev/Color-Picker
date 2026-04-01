@@ -108,6 +108,12 @@ Result: smooth, responsive interaction
 
 ---
 
+## Future Additions
+
+* Radial Hue Sliders
+
+---
+
 ## Structure
 
 ```
