@@ -8,7 +8,7 @@ A modular, performance-optimized color picker for Unity with full RGBA, HSV, and
 
 <!-- Add a GIF or short video here -->
 <!-- Example: ![Demo](media/demo.gif) -->
-![Demo](media/demo.gif)
+![Demo](Media/Demo.gif)
 
 ---
 
