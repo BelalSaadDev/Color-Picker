@@ -116,7 +116,7 @@ Result: smooth, responsive interaction
 
 ## Customizable UI Example
 
-![Customizable UI](Media/Customizable UI.png)
+![Customizable UI](Media/Customizable_UI.png)
 
 ---
 
